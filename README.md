@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Netflix Data Analysis with DBT Core**
+- 🔭 I’m currently working on **Snowflake-DBT-AWS project**
 
 - 🌱 I’m currently learning **Qlik, PySpark Advanced and Snowflake**
 
